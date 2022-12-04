@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! <img src="https://user-images.githubusercontent.com/74210902/205475724-c57e074f-f70f-457a-8076-dad6d8f54287.gif" width="30" height="30"/>
+
+![Hello](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
 
 <!--
 **Speekins/Speekins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
