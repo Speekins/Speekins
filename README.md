@@ -1,4 +1,9 @@
 # Hi there! I'm Spencer (he/him). Thanks for stopping by!<img src="https://user-images.githubusercontent.com/74210902/205475724-c57e074f-f70f-457a-8076-dad6d8f54287.gif" width="30" height="30"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/spencer-haka">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ![Hello](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
 
@@ -13,6 +18,17 @@ My most recent project is an application called Neatflix. [Check it out!](github
 
 ## Current Projects
 I'm currently looking at expanding on the Neatflix project by writing a simple backend API using Express.js and hosted on vercel. This will allow for more control of the information incorporated into the application and will even allow the user to sign in and see their own movie ratings!
+
+## Technologies
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
+## Frameworks
+
+## Tools
 
 [![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=speekins&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speekins&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
