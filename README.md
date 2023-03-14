@@ -17,7 +17,7 @@ I'm looking for an opportunity to work on a team of developers building and impr
 My most recent project is an application called [Bookish](github.com/speekins/bookish)—it was built with React, and implements Router for URL route matching, and some React Hooks for state management. The idea was to create an application in which a user can peruse popular books (for the current week) in a variety of genres, and save them for reading later. Cypress testing framework was also incorporated to test as many facets of the user experience as possible. The primary challenge I faced with this project was global state management, in particular utilizing the `useReducer` hook. It proved difficult changing state as complex as this seeing as state is "read only". Having to make a copy of state, then making any changes and re-assigning state was a challenge to wrap my head around at times, but I feel I came out the other side with a much better understanding of this.
 
 ## Current Projects
-I'm currently looking at expanding on the Neatflix project by writing a simple backend API using Express.js and hosted on vercel. This will allow for more control of the information incorporated into the application and will even allow the user to sign in and see their own movie ratings!
+I'm currently looking at expanding on the Neatflix project by writing a simple backend API using Express.js and hosted on vercel. This will allow for more control of the information incorporated into the application and will even allow the user to sign in and see their own book ratings, comments, and reviews.
 
 ## Technologies
 <div>
