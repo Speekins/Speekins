@@ -23,7 +23,7 @@
 -->
 
 <h3>Summary</h3>
-I'm currently a student in the front end engineering program at Turing School of Software & Design. My background professional experience includes project management in the homebuilding industry which required a lot of creativity (especially considering recent supply chain issues), excellent customer service & customer facing interactions, efficient time & schedule management, and an ability to communicate complex ideas to both customers and sub-contractors.<br>
+I am a graduate of the Front End Engineering program at Turing School of Software & Design. My background professional experience includes project management in the homebuilding industry which required a lot of creativity (especially considering recent supply chain issues), excellent customer service & customer facing interactions, efficient time & schedule management, and an ability to communicate complex ideas to both customers and sub-contractors.<br>
 A couple of my greatest strengths include interpersonal/team work, and problem-solving. I consider myself an introverted personality type, but I really enjoy and prefer working and collaborating on teams—it gives me the opportunity to learn new and cool things from my teammates, and for us to build a better overall application. And I enjoy problem-solving in many aspects of my life from solving a jigsaw puzzle in my free-time, to solving home-improvement issues. I even struggle to pull myself away from a task (as my wife can attest) because I can't stop thinking about how to tackle a problem or improve a project!
 
 ## What I'm Looking For
